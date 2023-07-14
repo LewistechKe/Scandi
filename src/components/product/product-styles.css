@@ -1,0 +1,14 @@
+.product{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    border-radius: 5px;
+}
+.product-left{
+    width: 10%;
+}
+.product-right{
+    width: 90%;
+    text-align: center;
+}
